@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/mohamedsgap/personal-website.svg?token=undefined&branch=main)](https://travis-ci.com/mohamedsgap/personal-website)
+[![Build Status](https://travis-ci.com/mohamedsgap/personal-website.svg?branch=main)](https://travis-ci.com/mohamedsgap/personal-website)
 
 # My personal website
 

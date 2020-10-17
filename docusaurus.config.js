@@ -1,7 +1,27 @@
+const mohamedOnInternet = {
+  github: {
+    label: "GitHub",
+    href: "https://github.com/mohamedsgap",
+  },
+  linkedin: {
+    label: "LinkedIn",
+    href: "https://www.linkedin.com/in/mohamedsgap",
+  },
+
+  twitter: {
+    label: "Twitter",
+    href: "https://twitter.com/mohamedsgap",
+  },
+  instagram: {
+    label: "Instagram",
+    href: "https://www.instagram.com/mohamedsgap/",
+  },
+};
+
 module.exports = {
-  title: "Mohamed",
+  title: "Mohamed Abdel-Nasser",
   tagline:
-    "I am a software engineer with a passion for all things web and open source",
+    "I am a software engineer with a passion for all things web and open source.",
   url: "https://www.mohdabdelnasser.live",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -9,18 +29,20 @@ module.exports = {
   organizationName: "mohamedsgap", // Usually your GitHub org/user name.
   projectName: "personal-website", // Usually your repo name.
   themeConfig: {
+    mohamedOnInternet,
     navbar: {
       title: "Mohamed",
       items: [
         {
           to: "docs/resume",
-          activeBasePath: "resume",
+          activeBasePath: "docs/resume",
           label: "Resume",
           position: "left",
         },
         { to: "blog", label: "Blog", position: "left" },
+        { to: "bucket-list", label: "Bucket List", position: "left" },
         { to: "portfolio", label: "Portfolio", position: "left" },
-        { to: "docs/bucket-list", label: "Bucket List", position: "left" },
+
         {
           href: "https://github.com/mohamedsgap",
           label: "GitHub",
@@ -58,7 +80,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My personal website made with ♥️ by Mohamed Abdel Nasser`,
+      copyright: `Copyright © ${new Date().getFullYear()}, Mohamed Abdel-Nasser.`,
     },
   },
   presets: [

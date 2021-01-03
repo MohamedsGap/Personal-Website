@@ -22,7 +22,7 @@ module.exports = {
   title: "Mohamed Abdel Nasser",
   tagline:
     "I am a software engineer with a passion for all things web and open source.",
-  url: "https://www.mohdabdelnasser.live",
+  url: "https://mabdelnasser.me",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",

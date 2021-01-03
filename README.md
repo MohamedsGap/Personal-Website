@@ -4,6 +4,6 @@
 
 Hi, All 👋
 
-Built this personal website to start sharing some interesting thoughts and to give you some insight who is Mohamed Abdel Nasser. 👨🏽‍💻
+Built this personal website to start sharing some interesting thoughts and to give you some insights who is Mohamed Abdel Nasser. 👨🏽‍💻
 
 This is the initial version, I'm working on it on weekends. 🚀

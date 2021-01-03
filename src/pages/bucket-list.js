@@ -10,9 +10,9 @@ function BucketList() {
             <h1>Bucket List</h1>
             <h3>TODO</h3>
             <ul>
-              <li>Make a talk at Tech Conference.</li>
+              <li>Live in the UK</li>
+              <li>Give a talk at Tech Conference.</li>
               <li>Work as SWE at big tech company.</li>
-              <li>Contribute more and more in open source projects.</li>
               <li>
                 Have an opportunity to meet and talk with Brian Vaughn, Dan
                 Abramov, Rachel Nabors and Yangshun Tay.

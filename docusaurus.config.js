@@ -42,7 +42,7 @@ module.exports = {
         },
         */
         { to: "blog", label: "Blog", position: "left" },
-        { to: "bucket-list", label: "Bucket List", position: "left" },
+        // { to: "bucket-list", label: "Bucket List", position: "left" },
         // { to: "portfolio", label: "Portfolio", position: "left" },
         {
           href: "https://github.com/mohamedsgap",

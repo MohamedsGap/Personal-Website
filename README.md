@@ -2,10 +2,8 @@
 
 # My personal website
 
-My personal website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+Hi, All 👋
 
-```
-yarn
+Built this personal website to start sharing some interesting thoughts and to give you some insight who is Mohamed Abdel Nasser. 👨🏽‍💻
 
-yarn start
-```
+This is the initial version, I'm working on it on weekends. 🚀

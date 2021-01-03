@@ -9,6 +9,7 @@ import styles from "./styles.module.css";
 
 const mohamedImage = {
   imageUrl: "img/mohamed.png",
+  newImgaeUrl: "img/pic_mohamed.jpeg",
 };
 
 function intersperse(items, separator) {
@@ -29,10 +30,10 @@ const Home = () => {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   const { mohamedOnInternet } = siteConfig.themeConfig;
-  const mohamedPic = useBaseUrl(mohamedImage.imageUrl);
+  const mohamedPic = useBaseUrl(mohamedImage.newImgaeUrl);
 
   return (
-    <Layout title={`${siteConfig.title} | Personal Website`}>
+    <Layout>
       <header className={styles.header}>
         <div className={styles.features}>
           <img

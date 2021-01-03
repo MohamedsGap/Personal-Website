@@ -19,7 +19,7 @@ const mohamedOnInternet = {
 };
 
 module.exports = {
-  title: "Mohamed Abdel-Nasser",
+  title: "Mohamed Abdel Nasser",
   tagline:
     "I am a software engineer with a passion for all things web and open source.",
   url: "https://www.mohdabdelnasser.live",
@@ -72,7 +72,7 @@ module.exports = {
           items: [
             {
               label: "Twitter",
-              href: "https://twitter.com/fannyvieiira",
+              href: "https://twitter.com/mohamedsgap",
             },
             {
               label: "Instagram",
@@ -81,7 +81,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()}, Mohamed Abdel-Nasser.`,
+      copyright: `Copyright © ${new Date().getFullYear()}, Mohamed Abdel Nasser. 👨🏽‍💻`,
     },
   },
   presets: [

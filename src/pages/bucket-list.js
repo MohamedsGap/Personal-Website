@@ -8,14 +8,18 @@ function BucketList() {
         <div className="row">
           <div className="col col--8 col--offset-2 markdown">
             <h1>Bucket List</h1>
+            <span>
+              Work in progress, I wanna share with you what I've achieved and what I hope to achieve in the near future.
+              (When I've more time, will write about my bucket list ASAP)
+            </span>
+            {/*
             <h3>TODO</h3>
             <ul>
-              <li>Live in the UK</li>
-              <li>Give a talk at Tech Conference.</li>
+              <li>Move to the UK</li>
+              <li>Speak at a Tech Conference.</li>
               <li>Work as SWE at big tech company.</li>
               <li>
-                Have an opportunity to meet and talk with Brian Vaughn, Dan
-                Abramov, Rachel Nabors and Yangshun Tay.
+                Have an opportunity to meet Brian Vaughn and Rachel Nabors.
               </li>
             </ul>
             <h3>In Progress</h3>
@@ -52,6 +56,7 @@ function BucketList() {
                 Google.
               </li>
             </ul>
+            */}
           </div>
         </div>
       </div>

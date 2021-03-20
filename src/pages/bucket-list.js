@@ -8,55 +8,44 @@ function BucketList() {
         <div className="row">
           <div className="col col--8 col--offset-2 markdown">
             <h1>Bucket List</h1>
-            <span>
-              Work in progress, I wanna share with you what I've achieved and what I hope to achieve in the near future.
-              (When I've more time, will write about my bucket list ASAP)
-            </span>
-            {/*
+            
             <h3>TODO</h3>
             <ul>
-              <li>Move to the UK</li>
               <li>Speak at a Tech Conference.</li>
-              <li>Work as SWE at big tech company.</li>
+              <li>Help other people as much as I could.</li>
+              <li>Visit new cities I've been never been to.</li>
+              <li>Write a blog post weekly about what I like and learn.</li>
               <li>
-                Have an opportunity to meet Brian Vaughn and Rachel Nabors.
+                Have an opportunity to meet Brian Vaughn and Rachel Nabors (tech community).
               </li>
             </ul>
             <h3>In Progress</h3>
             <ul>
-              <li>Always Learning.</li>
-              <li>Build things for the web.</li>
-              <li>Huawei seeds of future program 2020.</li>
-
-              <li>Looking for a new opportunity as front end engineer.</li>
-              <li>
-                Maintain open source projects at TechFellows Org. on GitHub.
-              </li>
+              <li>Build a Chrome & VScode extension.</li>
+              <li>Looking for interesting things to Learn.</li>
+              <li>contribute to open source projects in spare time.</li>
             </ul>
             <h3>Done</h3>
             <ul>
               <li>
-                Finished my Bachelor's degree in computer science (Aug 17,
-                2020).
+                Got a computer science bachelor degree (Aug 17, 2020).
               </li>
               <li>
-                One of the top 9 students in Cloud track of Huawei ICT
-                Competition 2019-2020.
+                Got my first job as full time software engineer (Nov 2020).
               </li>
               <li>
-                Completed Udacity Cloud DevOps Nanodegree, granted by
-                Bertlesmann.
+                Participated in Huawei seeds of the future program (Oct. 2020).
               </li>
               <li>
-                Finished 12 months scholarship in software developemnt from
-                Facebook.
+                One of the top 5 students in Cloud track of Huawei ICT competition (2019-2020).
               </li>
               <li>
-                Completed Udacity Front End Web Developer Nanodegree, granted by
-                Google.
+                Got two Udacity certifications in Cloud DevOps & Web development.(2018 & 2020).
+              </li>
+              <li>
+                Completed a software development diploma in 12 months fully funded by Facebook (July 2020).
               </li>
             </ul>
-            */}
           </div>
         </div>
       </div>

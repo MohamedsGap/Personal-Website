@@ -19,9 +19,9 @@ const mohamedOnInternet = {
 };
 
 module.exports = {
-  title: "Mohamed Abdel Nasser",
+  title: "Mohamed Abdelnasser",
   tagline:
-    "I am a software engineer with a passion for all things web and open source.",
+    "I'm a software engineer who enjoys building efficient, reusable front-end abstractions and systems with useful, user-friendly interfaces. I'm passionate about building great experiences, open source, and creating tools.",
   url: "https://mabdelnasser.me",
   baseUrl: "/",
   onBrokenLinks: "throw",

@@ -14,7 +14,7 @@ const mohamedOnInternet = {
   },
   instagram: {
     label: "Instagram",
-    href: "https://www.instagram.com/mohamedsgap/",
+    href: "https://www.instagram.com/mohd_abdelnasser/",
   },
 };
 
@@ -74,7 +74,7 @@ module.exports = {
             },
             {
               label: "Instagram",
-              href: "https://www.instagram.com/mohamedsgap/",
+              href: "https://www.instagram.com/mohd_abdelnasser/",
             },
           ],
         },

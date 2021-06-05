@@ -19,9 +19,9 @@ const mohamedOnInternet = {
 };
 
 module.exports = {
-  title: "Mohamed Abdelnasser",
+  title: "Mohamed Abdelnasser 👨🏽‍💻",
   tagline:
-    "I'm a software engineer who enjoys building efficient, reusable front-end abstractions and systems with useful, user-friendly interfaces. I'm passionate about building great experiences, open source, and creating tools.",
+    "I'm a software engineer who enjoys building efficient, reusable front-end abstractions and systems",
   url: "https://mabdelnasser.me",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -79,7 +79,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()}, Mohamed Abdel Nasser. 👨🏽‍💻`,
+      copyright: `Copyright © ${new Date().getFullYear()}, Mohamed Abdelnasser. 👨🏽‍💻`,
     },
   },
   presets: [

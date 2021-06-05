@@ -3,10 +3,7 @@ id: resume
 title: "Resume"
 ---
 
-<!--
-Hi, My name is Mohamed 👋, I'm a certified front end engineer who is degree educated, successfully received full scholarships from Facebook, Google and Bertelsmann SE & Co. Enjoy building efficient and reusable front-end abstractions and systems.
-Highly skilled in JavaScript, writing modular, scalable and efficient code [ SOLID principle, mobile first approch, Flux pattern ] that works both on the browser and on the server, making modern web applications work as they should: beautiful, efficient, fast, and easy to use.
-Have a passion for all things visual and fluid. I'm interested in making the user experience as rich and interactive as possible, passionate for all things web and open source.
+Hi, My name is Mohamed 👋, I'm a software engineer who enjoys building efficient, reusable front-end abstractions and systems with useful, user-friendly interfaces. I'm passionate about building great experiences, open source, and creating tools.
 
 [github](https://github.com/mohamedsgap)&middot;[twitter](https://twitter.com/mohamedsgap)&middot;[email](mailto:mohdabdellnasser1@gmail.com)
 
@@ -25,6 +22,12 @@ _July 2019 - Aug 2020_
 Europe's largest online only higher education institution, Degree’s consisit of several real life projects for the student to complete. Student also have weekly one on one session with an a expert in the field.
 
 ## Career & Achievements
+
+### Software Engineer, CEQUENS.
+
+_Nov. 2020 – Present_
+
+- Work on CEQUENS console platform.
 
 ### BuildforSDG Frontend Dev. Intern, Andela.
 
@@ -67,7 +70,7 @@ _October 2017 – August 2018_
 
 - **Languages:** JavaScript, TypeScript, Python, HTML/CSS, SQL, C++
 
-- **Frameworks and Libraries :** React.js, React Native, Node.js, Redux, Truffle Blockchain, Bootstrap.
+- **Frameworks and Libraries :** React.js, React Native, Node.js, Redux, Bootstrap, Ant Design, RxJS
 
 - **Others:** Git, Webpack, Basics of Docker & Kubernetes, Continuous Integration & Delivery, Huawei Cloud Services, AWS, TDD(Jest, Enzyme).
 
@@ -75,9 +78,9 @@ _October 2017 – August 2018_
 
 ### Student Community Ambassador at OpenClassrooms
 
-_Sep. 2020 – Present_
+_Sep. 2020 – Apr. 2021_
 
-- As student community ambassador, I help OpenClassrooms community for holding technical webinars and mentoring students in their projects.
+- As student community ambassador, help OpenClassrooms community for holding technical webinars and mentoring students in their projects.
 
 ## Activities
 
@@ -95,5 +98,3 @@ _Sep. 2020 – Present_
 ## Language skills
 
 - Native Arabic, English, French.
-
--->

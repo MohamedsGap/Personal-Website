@@ -21,13 +21,13 @@ const mohamedOnInternet = {
 module.exports = {
   title: "Mohamed Abdelnasser 👨🏽‍💻",
   tagline:
-    "I'm a software engineer who enjoys building efficient, reusable front-end abstractions and systems",
+    "I'm a software engineer who enjoys building efficient, reusable front-end abstractions and systems.",
   url: "https://mabdelnasser.me",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
-  organizationName: "mohamedsgap", // Usually your GitHub org/user name.
-  projectName: "personal-website", // Usually your repo name.
+  organizationName: "mohamedsgap",
+  projectName: "personal-website",
   themeConfig: {
     mohamedOnInternet,
     navbar: {
@@ -79,7 +79,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()}, Mohamed Abdelnasser. 👨🏽‍💻`,
+      copyright: `Copyright © ${new Date().getFullYear()}, Mohamed Abdelnasser 👨🏽‍💻.`,
     },
   },
   presets: [

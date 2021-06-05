@@ -3,10 +3,6 @@ id: resume
 title: "Resume"
 ---
 
-
-#### WIP
-Work in progress, recently good stuff happened to me, so I need to update my resume based on what's new in my life, I'm gonna to do this ASAP :)
-
 <!--
 Hi, My name is Mohamed 👋, I'm a certified front end engineer who is degree educated, successfully received full scholarships from Facebook, Google and Bertelsmann SE & Co. Enjoy building efficient and reusable front-end abstractions and systems.
 Highly skilled in JavaScript, writing modular, scalable and efficient code [ SOLID principle, mobile first approch, Flux pattern ] that works both on the browser and on the server, making modern web applications work as they should: beautiful, efficient, fast, and easy to use.
